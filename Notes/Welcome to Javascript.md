@@ -16,7 +16,7 @@ Javascript is builtin in all the browsers  so it is not need to be installed int
 
 We will use the javascript in the console or the code pen and then in the scrimba to learn the JavaScript.
 
-
+[[Datatypes]]
 
 
 
