@@ -12,6 +12,9 @@ Comments:
 Welcome to Javascript
 
 Notes:
+Javascript is builtin in all the browsers  so it is not need to be installed into the system.
+
+We will use the javascript in the console or the code pen and then in the scrimba to learn the JavaScript.
 
 
 
