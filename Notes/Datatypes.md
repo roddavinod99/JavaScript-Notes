@@ -13,3 +13,6 @@ Datatypes
 
 Notes:
 
+/* var is a variable which stores the data in it like a box*/
+
+they are three ways to declare a variable.
